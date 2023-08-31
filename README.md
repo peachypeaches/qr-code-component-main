@@ -22,8 +22,8 @@ This is my personal take on creating the QR code component based on designs prov
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/peachypeaches/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://peachypeaches.github.io/qr-code-component-main/)
+- Solution URL: [(https://github.com/peachypeaches/qr-code-component-main)]
+- Live Site URL: [(https://peachypeaches.github.io/qr-code-component-main/)]
 
 
 ### Built with
@@ -36,7 +36,7 @@ This is my personal take on creating the QR code component based on designs prov
 
 ## Author
 
-- Website - [Peachick](https://github.com/peachypeaches)
+- Website - [peachypeaches](https://github.com/peachypeaches)
 - Frontend Mentor - [@peachypeaches](https://www.frontendmentor.io/profile/peachypeaches)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
